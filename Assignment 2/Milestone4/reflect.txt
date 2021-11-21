@@ -1,0 +1,7 @@
+1. findContactIndex would iterate the contacts amd check for matches then return the index of that contact.
+ getTenDigitPhone function allowed me to make sure the phone number entered was 10 digits long and consisted of all digits no letters.
+ It was used as the searching variable when looking for contacts.
+ The functions made it easier to break everything down into modules that could be looked up by phone number and index.
+
+2. From Assignment 2 I learned a ton about modularity, how to keep my code sorted. I learned how to manipulate data, how to store it.
+ I learned that the smallest semi colon can cost you half a day... but thats not really a new lesson.
